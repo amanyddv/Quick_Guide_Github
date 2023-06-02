@@ -44,6 +44,9 @@ $ git remote -v
 To see the difference between local and github repo..
 $ git diff
 
+To exit after the git log command use the following 
+$   q  :q  Q  :Q  ZZ
+
 
 
 
